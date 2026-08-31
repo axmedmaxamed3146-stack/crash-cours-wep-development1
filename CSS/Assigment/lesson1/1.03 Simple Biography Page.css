@@ -1,0 +1,21 @@
+p {
+    font-size: 20px;
+    color: darkblue;
+}
+
+
+/* Class Selector */
+
+.favs {
+    color: darkgreen;
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+
+/* ID Selector */
+
+#character-name {
+    color: crimson;
+    font-size: 45px;
+}

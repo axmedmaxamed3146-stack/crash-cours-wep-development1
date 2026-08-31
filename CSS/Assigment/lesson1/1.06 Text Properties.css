@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+}
+
+article {
+    background-color: white;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.important {
+    color: red;
+    text-decoration: underline;
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+}
+
+blockquote {
+    background-color: blue;
+    color: white;
+    padding: 30px;
+}
+
+blockquote p {
+    font-family: Georgia, serif;
+    font-size: 28px;
+    font-style: italic;
+}
+
+blockquote footer {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}

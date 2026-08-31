@@ -1,0 +1,41 @@
+.header {
+    background-color: blue;
+    color: white;
+}
+
+.about {
+    background-color: deeppink;
+    color: white;
+    margin-top: 35px;
+}
+
+.services {
+    background-color: green;
+    color: white;
+    margin-top: 35px;
+}
+
+.testimonials {
+    margin-top: 35px;
+}
+
+.testimonial1 {
+    background-color: blue;
+    color: white;
+}
+
+.testimonial2 {
+    background-color: purple;
+    color: white;
+}
+
+.testimonial3 {
+    background-color: black;
+    color: white;
+}
+
+.footer {
+    background-color: blue;
+    color: black;
+    margin-top: 35px;
+}

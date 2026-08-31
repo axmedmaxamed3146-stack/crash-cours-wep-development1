@@ -1,0 +1,26 @@
+ul {
+    width: 300px;
+    margin: auto;
+}
+
+li {
+    padding: 10px;
+    margin: 5px;
+    background-color: lightblue;
+    color: darkblue;
+}
+
+li:nth-child(2) {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+li:nth-child(3) {
+    background-color: lightyellow;
+    color: darkorange;
+}
+
+li:nth-child(4) {
+    background-color: lightpink;
+    color: darkred;
+}
