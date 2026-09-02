@@ -1,0 +1,17 @@
+.text-block {
+    background-color: rgb(10, 230, 25);
+    border: 1px solid black;
+    margin: 20px;
+}
+
+#block1 {
+    padding: 40px;
+}
+
+#block2 {
+    padding: 10px;
+}
+
+#block3 {
+    padding: 20px;
+}
