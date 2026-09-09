@@ -1,0 +1,47 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.profile-card {
+    width: 350px;
+    margin: 50px auto;
+    padding: 25px;
+
+    background-color: #333;
+    background-image: url("card-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    text-align: center;
+    color: white;
+
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.profile-card img {
+    width: 120px;
+    height: 120px;
+
+    border-radius: 50%;
+    border: 3px solid white;
+
+    object-fit: cover;
+}
+
+.profile-card h2 {
+    font-size: 28px;
+    margin: 15px 0 5px;
+}
+
+.profile-card h3 {
+    font-size: 20px;
+    margin: 5px 0 15px;
+}
+
+.profile-card p {
+    font-size: 16px;
+    line-height: 1.6;
+}
