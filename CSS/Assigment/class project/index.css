@@ -29,22 +29,13 @@ header {
     background-color: white;
 }
 
-
-
 .logo {
-    width: 80px;
-    height: 35px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    border: 1px solid #777;
-    font-weight: bold;
-
     position: absolute;
-    top: 20px;
     left: 20px;
+    top: 15px;
+
+    width: 80px;
+    height: 40px;
 }
 
 .logo img {
@@ -52,9 +43,6 @@ header {
     height: 100%;
     object-fit: cover;
 }
-
-
-
 
 nav a {
     display: inline;
@@ -86,9 +74,6 @@ nav a {
 
     background-position: center;
 }
-
-
-
 
 .hero-text {
     width: 70%;
@@ -303,7 +288,7 @@ nav a {
 .card p {
     margin: 0;
 
-    color: white;
+    color: black;
 }
 
 
