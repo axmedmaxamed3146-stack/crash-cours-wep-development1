@@ -240,7 +240,6 @@ nav a {
 }
 
 
-/* CARD */
 
 .card {
     width: 33.33%;
@@ -281,7 +280,7 @@ nav a {
 .card h3 {
     margin: 10px 0 5px;
 
-    color: white;
+    color: greenyellow;
 }
 
 
